@@ -1,3 +1,9 @@
+# Install 
+
+```bash
+npm -i g artillery-engine-http-ntml
+```
+
 You need to either install this package globably, or npm link it globally so that artillery.io can load the module correctly.
 
 Alternatily, you could symlink this module into the artillery.io local node_modules folder and it will also work.
