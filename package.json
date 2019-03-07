@@ -1,0 +1,19 @@
+{
+  "name": "artillery-engine-http-ntml",
+  "version": "0.0.1",
+  "description": "Artillery.io engine for NTML support over HTTP/S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "whilke",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "debug": "^4.1.1",
+    "filtrex": "^0.5.4",
+    "httpntlm": "^1.7.6",
+    "loadash": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
